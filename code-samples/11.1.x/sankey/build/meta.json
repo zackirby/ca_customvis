@@ -1,0 +1,11 @@
+{
+    "name": "Sankey",
+    "id": "com.ibm.vis.custom.sankey",
+    "type": "renderer",
+    "version": "1.0",
+    "description": "Sample custom visualization showing a Sankey chart",
+    "icon": "Sankey.svg",
+    "cliVersion": "1.0.112",
+    "apiVersion": "1.0",
+    "libVersion": "1.0.112"
+}
